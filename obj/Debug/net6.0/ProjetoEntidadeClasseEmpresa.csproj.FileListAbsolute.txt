@@ -1,0 +1,15 @@
+C:\Users\aless\senai\ProjetoEntidadeClasseEmpresa\projetoentidadeclasseempresa\bin\Debug\net6.0\ProjetoEntidadeClasseEmpresa.exe
+C:\Users\aless\senai\ProjetoEntidadeClasseEmpresa\projetoentidadeclasseempresa\bin\Debug\net6.0\ProjetoEntidadeClasseEmpresa.deps.json
+C:\Users\aless\senai\ProjetoEntidadeClasseEmpresa\projetoentidadeclasseempresa\bin\Debug\net6.0\ProjetoEntidadeClasseEmpresa.runtimeconfig.json
+C:\Users\aless\senai\ProjetoEntidadeClasseEmpresa\projetoentidadeclasseempresa\bin\Debug\net6.0\ProjetoEntidadeClasseEmpresa.dll
+C:\Users\aless\senai\ProjetoEntidadeClasseEmpresa\projetoentidadeclasseempresa\bin\Debug\net6.0\ProjetoEntidadeClasseEmpresa.pdb
+C:\Users\aless\senai\ProjetoEntidadeClasseEmpresa\projetoentidadeclasseempresa\obj\Debug\net6.0\ProjetoEntidadeClasseEmpresa.csproj.AssemblyReference.cache
+C:\Users\aless\senai\ProjetoEntidadeClasseEmpresa\projetoentidadeclasseempresa\obj\Debug\net6.0\ProjetoEntidadeClasseEmpresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\senai\ProjetoEntidadeClasseEmpresa\projetoentidadeclasseempresa\obj\Debug\net6.0\ProjetoEntidadeClasseEmpresa.AssemblyInfoInputs.cache
+C:\Users\aless\senai\ProjetoEntidadeClasseEmpresa\projetoentidadeclasseempresa\obj\Debug\net6.0\ProjetoEntidadeClasseEmpresa.AssemblyInfo.cs
+C:\Users\aless\senai\ProjetoEntidadeClasseEmpresa\projetoentidadeclasseempresa\obj\Debug\net6.0\ProjetoEntidadeClasseEmpresa.csproj.CoreCompileInputs.cache
+C:\Users\aless\senai\ProjetoEntidadeClasseEmpresa\projetoentidadeclasseempresa\obj\Debug\net6.0\ProjetoEntidadeClasseEmpresa.dll
+C:\Users\aless\senai\ProjetoEntidadeClasseEmpresa\projetoentidadeclasseempresa\obj\Debug\net6.0\refint\ProjetoEntidadeClasseEmpresa.dll
+C:\Users\aless\senai\ProjetoEntidadeClasseEmpresa\projetoentidadeclasseempresa\obj\Debug\net6.0\ProjetoEntidadeClasseEmpresa.pdb
+C:\Users\aless\senai\ProjetoEntidadeClasseEmpresa\projetoentidadeclasseempresa\obj\Debug\net6.0\ProjetoEntidadeClasseEmpresa.genruntimeconfig.cache
+C:\Users\aless\senai\ProjetoEntidadeClasseEmpresa\projetoentidadeclasseempresa\obj\Debug\net6.0\ref\ProjetoEntidadeClasseEmpresa.dll
